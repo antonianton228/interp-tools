@@ -1,3 +1,5 @@
+use ```pip install interp-tools```
+
 Python module for interpolating functions from one, two or three variables.
 
 Examples of using the module:
